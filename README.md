@@ -1,7 +1,7 @@
 sweet task markup language
 =================
 
-(I) Here's a way to document all the sweet stuff you want to do in life, using text, and in time a bin directory (T)(Q).
+(I) Here's a way to document all the sweet stuff you want to do in life, using text.
 
 	Legend ------------------------------
 	
