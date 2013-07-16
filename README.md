@@ -28,7 +28,8 @@ sweet task format
 			(Z) = Zzing (Q)
 			
 		--- development process identification -----
-			(1.0) = What development process # is this task in
+			(1.0) = What development process # this task is in
+			(13.37) = ^!^
 	
 		--- time estimations -----
 			{<est>,<act>} = Estimate, actual. In hours.
