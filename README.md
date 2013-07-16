@@ -26,6 +26,9 @@ sweet task format
 			(R) = Rule or principal
 			(T) = Task
 			(Z) = Zzing (Q)
+			
+		--- development process identification -----
+			(1.0) = What development process # is this task in
 	
 		--- time estimations -----
 			{<est>,<act>} = Estimate, actual. In hours.
@@ -35,6 +38,6 @@ sweet task format
 			($$) = Money In
 	
 		-- scraping patterns -----
-			[^\s].+\([BCFIMNPQRT]+\).+$ = All tagged notes
+			[^\s].+\([BCDFIMNPQRTZ]+\).+$ = All tagged notes
 			[^\s].+\([0-9]{1,2}\.[0-9]{1,2}\).+$ = Development process tasks
 			[\s]+->\s.+$ = Current Tasks
