@@ -1,7 +1,7 @@
 sweet task markup language
 =================
 
-(I) Here's a way to document all the sweet stuff you want to do in life, using text.
+Here's a way to document all the sweet stuff you want to do in life, using text.
 
 	Legend ------------------------------
 	
