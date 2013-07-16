@@ -1,5 +1,7 @@
-sweet task format
+sweet task markup language
 =================
+
+Hello world! Here's a way to document stuff you have to do in life, using text. Can't wait until I whip up some bin files!
 
 	Legend -------------------------------------------------
 	
