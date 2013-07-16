@@ -1,9 +1,9 @@
 sweet task markup language
 =================
 
-Here's a way to document stuff you have to do in life, using text. Can't wait until I whip up some bin files!
+(I) Here's a way to document all the sweet stuff you want to do in life, using text, and in time a bin directory (T)(Q).
 
-	Legend -------------------------------------------------
+	Legend ------------------------------
 	
 	  	--- task list -----
 			!- = high priority
@@ -40,7 +40,17 @@ Here's a way to document stuff you have to do in life, using text. Can't wait un
 			($) = Money Out
 			($$) = Money In
 	
-		-- scraping patterns -----
+		--- scraping patterns -----
 			[^\s].+\([BCDFIMNPQRTZ]+\).+$ = All tagged notes
 			[^\s].+\([0-9]{1,2}\.[0-9]{1,2}\).+$ = Development process tasks
 			[\s]+->\s.+$ = Current Tasks
+			
+	Example high priority task list ------------------------------
+		
+		-> Doing that thing I was planning to do
+		>- Then after I'll do this
+		>- Then after after I'll do that
+		-- And some other time I'll do this
+		./ But it may be a while until I get to this
+		(R) As long as I actually get to it, (C) it's okay.
+		
