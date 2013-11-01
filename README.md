@@ -14,7 +14,6 @@ Here's a way to document all the sweet stuff you want to do in life, using text.
 			.- = deferred
 			\- = invalid
 			?- = testing required
-			/. = deferred
 	
 		--- tags -----
 			(B) = Blog idea
@@ -52,6 +51,6 @@ Here's a way to document all the sweet stuff you want to do in life, using text.
 		>- Then after I'll do this
 		>- Then after after I'll do that
 		-- And some other time I'll do this
-		./ But it may be a while until I get to this
+		.- But it may be a while until I get to this
 		(R) As long as I actually get to it, (C) it's okay.
 		
