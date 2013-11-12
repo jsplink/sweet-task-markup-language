@@ -47,6 +47,7 @@ Here's a way to document all the sweet stuff you want to do in life, using text.
 			
 	Example high priority task list ------------------------------
 		
+		!- Spin up additional db node
 		-> Doing that thing I was planning to do
 		>- Then after I'll do this
 		>- Then after after I'll do that
